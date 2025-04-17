@@ -1,4 +1,3 @@
-
 CREATE TABLE environment_data (
     id SERIAL PRIMARY KEY,
     temperature FLOAT,
